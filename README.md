@@ -14,10 +14,12 @@
 name = "danna"
 a = 10
 b = 5
-c = 3
 
 # Математическая операция
-result = (a + b)/c
-print(f"{result}")
+result = a + b
+
+#Вывод результата на экран
+print(f"Привет, {name}!")
+print(f"Результат сложения {a} + {b} равен {result}")
 
 ```
