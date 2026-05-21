@@ -1,0 +1,18 @@
+total 7.1M
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 ./
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 ../
+-rw-r--r-- 1 danar 197609  19K Feb  2 17:59 LICENSE.txt
+-rw-r--r-- 1 danar 197609 294K Feb  2 17:59 ReleaseNotes.html
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 bin/
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 cmd/
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 dev/
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 etc/
+-rwxr-xr-x 1 danar 197609 136K Feb  2 17:39 git-bash.exe*
+-rwxr-xr-x 1 danar 197609 135K Feb  2 17:39 git-cmd.exe*
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:30 mingw64/
+dr-xr-xr-x 9 danar 197609    0 Apr  9 15:34 proc/
+drwxr-xr-x 1 danar 197609    0 Apr  9 15:32 tmp/
+-rw-r--r-- 1 danar 197609 1.8M Feb 12 01:31 unins000.dat
+-rwxr-xr-x 1 danar 197609 4.3M Feb 12 01:29 unins000.exe*
+-rw-r--r-- 1 danar 197609  25K Feb 12 01:31 unins000.msg
+drwxr-xr-x 1 danar 197609    0 Feb 12 01:31 usr/
